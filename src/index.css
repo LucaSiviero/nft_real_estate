@@ -178,7 +178,7 @@ header {
 
 .card__image {
   position: absolute;
-  width: 100%;
+  width: 30em;
   z-index: -1;
 }
 

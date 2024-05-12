@@ -2,7 +2,7 @@
     "name": "Luxury NYC Penthouse",
     "address": "157 W 57th St APT 49B, New York, NY 10019",
     "description": "Luxury Penthouse located in the heart of NYC",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "image": "http://127.0.0.1:8080/ipfs/QmbFcLjKAm5cCzksTfaH9Yn4Qv6AaCW76i2kbzhwjv1CRz?filename=home_image_1.jpeg",
     "id": "1",
     "attributes": [
         {
